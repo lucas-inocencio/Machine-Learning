@@ -1,4 +1,4 @@
-Id,type,neighborhood,tipo_vendedor,bedrooms,suites,vagas,size,area_extra,diferenciais,churrasqueira,estacionamento,piscina,playground,quadra,s_festas,s_jogos,s_ginastica,sauna,vista_mar,price
+Id,tipo,bairro,tipo_vendedor,quartos,suites,vagas,area_util,area_extra,diferenciais,churrasqueira,estacionamento,piscina,playground,quadra,s_festas,s_jogos,s_ginastica,sauna,vista_mar,preco
 2000,Casa,Imbiribeira,Imobiliaria,3,3,5,223,167,piscina e copa,0,0,1,0,0,0,0,0,0,0,1000000
 2001,Apartamento,Casa Amarela,Imobiliaria,4,4,2,157,0,piscina e churrasqueira,1,0,1,0,0,0,0,0,0,0,680000
 2002,Apartamento,Encruzilhada,Imobiliaria,3,1,0,53,0,nenhum,0,0,0,0,0,0,0,0,0,0,450000
